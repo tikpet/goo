@@ -1,2 +1,3 @@
 some text for test
 new text for test
+sh 'echo "hello people"'
